@@ -56,20 +56,8 @@ The administration of IGL competitions is structured as follows:
 - **Game Day Admin:** Responsible for operational decisions during live competition days
 - **Game Admin:** Oversees game-specific competitions and supervises Game Day Admins
 - **Head Admin:** Oversees all game competitions, manages the administrative team, and serves as the final authority on competitive decisions
-- **IGL Esports Council:**  Independent body responsible for competitive governance (see Section 1.7).
 
 **Note:** Individuals may hold multiple administrative roles depending on competition requirements and organisational structure.
-
-### 1.7. Governance and Appeals
-The **IGL Esports Council** operates as an independent oversight body responsible for:
-
-- Creating and maintaining rulebooks, formats, and fair play guidelines
-- Supervising referees, administrators, and competition officials
-- Evaluating formal proposals from participants
-- Managing competitive calendars and approving game-specific settings
-- Ensuring competitive integrity and governance
-
-The Esports Council operates **independently within its defined scope** and **does not have authority over financial, legal, or administrative matters** of the IGL organisation . Its complete composition, authority, and procedures are defined in the IGL Statutes.
 
 ### 1.8. Rule Modifications
 Ibex Gaming reserves the right to update these Rules, game-specific rulebooks, or competition-specific regulations at any time, subject to the following conditions:
@@ -79,7 +67,7 @@ Ibex Gaming reserves the right to update these Rules, game-specific rulebooks, o
 - Minor clarifications or technical corrections may be implemented immediately with appropriate notice
 
 ### 1.9. Unforeseen Circumstances
-Where circumstances arise that are **not explicitly covered by these Rules**, the Head Admin and IGL Esports Council have authority to make decisions in the best interest of competitive integrity, fairness, and legal compliance. Such decisions shall be documented and may form the basis for future rule amendments.
+Where circumstances arise that are **not explicitly covered by these Rules**, the Head Admin have authority to make decisions in the best interest of competitive integrity, fairness, and legal compliance. Such decisions shall be documented and may form the basis for future rule amendments.
 
 ---
 
@@ -613,7 +601,6 @@ The following decisions are **final and not subject to appeal:**
 - Match results and competitive rulings during gameplay
 - Administrative decisions on rule interpretations
 - Sanctions for clear rule violations with undisputed evidence
-- Decisions made by the IGL Esports Council in its governance capacity
 
 ### 8.4. Appeals Procedure
 
@@ -629,8 +616,8 @@ Appeals must be submitted in writing within **seven (7) days** of the decision, 
 
 Appeals shall be reviewed by:
 
-- IGL Esports Council (for sanctions imposed by the administration)
-- Independent panel (for sanctions involving IGL Esports Council members)
+- IGL Head Admin(s)
+- Independent panel (for sanctions imposed by the administration)
 - External arbitrator (for matters involving conflicts of interest)
 
 #### 8.4.3. Appeal Decision
@@ -731,7 +718,6 @@ Before prize forfeiture:
 Recipients may appeal forfeiture decisions within **seven (7) days** by:
 
 - Submitting a written appeal with supporting evidence
-- Requesting review by the IGL Esports Council or an independent reviewer
 - Demonstrating compliance with requirements or mitigating circumstances
 
 **Forfeiture appeals are resolved within thirty (30) days, and decisions are final.**
@@ -1104,7 +1090,7 @@ These Rules, together with applicable game-specific rulebooks and competition-sp
 
 ### 13.2. Amendment Process
 
-These Rules may be amended only through the process specified in Section 1.8. Proposed amendments shall be subject to review by the IGL Esports Council before implementation.
+These Rules may be amended only through the process specified in Section 1.8.
 
 ### 13.3. Translation and Language
 
