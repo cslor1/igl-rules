@@ -6,8 +6,9 @@ Welcome to the Ibex Gaming League rules repository! This guide will help you mak
 
 This repository contains the official rules for different games in the Ibex Gaming League:
 
-- **counterstrike2.md** - Rules for Counter-Strike 2 tournaments
-- **rocketleague.md** - Rules for Rocket League tournaments
+- **counterstrike2.md** - Rules for Counter-Strike 2 competitions
+- **rocketleague.md** - Rules for Rocket League competitions
+- **overwatch.md** - Rules for overwatch competitions
 
 ## How to modify rules
 
