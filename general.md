@@ -456,43 +456,33 @@ At live events, participants must:
 
 ---
 
-## 6. Media Rights and Broadcasting
+## 6. Streaming & Broadcasting
 
 ### 6.1. Personal Streaming Rights
 
-#### 6.1.1. Player Streaming Permissions
+#### 6.1.1. General Streaming Permissions
 
 Competitors may broadcast their own matches, subject to:
 
-- **Minimum 2-minute delay** for personal POV streams
-- **Inclusion of "Ibex Gaming League" or "IGL"** in stream title
-- **Use of "IGL" tag** where the platform supports tagging (e.g., Twitch)
+- Restricted to POV;
+- Stream title must include the name of the competition in the title e.g. "Ibex Gaming League | <Division> | <Season>";
+- Use of "IGL" tag where the platform supports tagging (e.g., Twitch);
+- Official broadcasts take precedence over any personal stream. Players need written permission by the Ibex Gaming League to stream the same match as any official broadcast;
+- Opponents need to be informed.
 
-#### 6.1.2. Third-Party Streaming
+#### 6.1.2. Spectator or third-party streams additional requirements:
 
 Spectator or third-party streams require:
-
-- **Written consent from both competing teams**
-- **Prior approval from tournament administration**
-- **Minimum 5-minute delay**
-- **Compliance with all title and tagging requirements**
+- Written consent from both competing teams provided to tournament administration;
+- Prior approval from tournament administration;
+- The use of specific official assets may be required by the tournament adminstration
 
 #### 6.1.3. Limitation of Liability
 
 IGL accepts **no responsibility for technical issues, stream sniping, security breaches, or other problems** related to personal or third-party broadcasts. Participants stream at their own risk.
 
-#### 6.1.4. Partnered Community Streams
-
-The Ibex Gaming League reserves the right to grant special permission to "Partnered Community Broadcasters" through partnership agreements. These partnerships may include:
-
-- **Reduced or waived delay requirements**
-- **Exclusive broadcasting rights for specific matches**
-- **Use of official IGL broadcast assets and graphics**
-- **Co-branding opportunities with the IGL**
-- **Revenue sharing arrangements where applicable**
-
-This list is illustrative and non-exhaustive, no aforementioned special permissions are guaranteed or required to be granted, and the specific terms and conditions of any such permissions shall be exclusively defined within the executed partnership agreement between the IGL and the individual Partnered Community Broadcaster.
-
+#### 6.1.4. Grant of rights
+The IGL may grant special permissions and waive provisions in regard to `6. Streaming & Broadcasting` to partnered broadcast operators.
 Partners must adhere to quality standards and broadcasting guidelines as specified in their partnership agreement.
 
 ### 6.2. Official Broadcasting Rights

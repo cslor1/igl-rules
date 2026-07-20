@@ -172,8 +172,7 @@ team will receive one (1) more timeout. Banked timeouts cannot be stacked higher
 Refer to the **Ibex Gaming League General Rulebook** for streaming and media rules.
 
 CS2 Clarifications:
-- Personal streams require a **2-minute delay**
-- All personal streams must include "**Ibex Gaming League**" in the title and the **"IGL" tag** on Twitch
+- Personal streams require a **2-minute delay**.
 
 ### 5.3. Coaching
 
