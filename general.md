@@ -1109,10 +1109,13 @@ In case of discrepancies between language versions, the English version shall pr
 ### 13.4. Effective Date and Transitional Provisions
 
 #### 13.4.1. Effective Date
-These Rules become effective on 2025-07-26 and apply to all competitions commencing after that date.
+These Rules become effective on the **Effective Date stated in the document header** and apply to all competitions commencing on or after that date.
+
 #### 13.4.2. Transitional Provisions
 
 For competitions in progress at the effective date, these Rules apply only to matters arising after the effective date, unless application would be unfair or impractical.
+
+**Running competitions are also affected by these Rules from the effective date onward, unless the Tournament Administration states otherwise.**
 
 ### 13.5. Legal Advice and Rights Information
 
