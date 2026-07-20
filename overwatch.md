@@ -46,8 +46,9 @@ The Tournament Administration may grant **special exemptions** for players who d
 - **Account sharing, smurfing, or multi-teaming is strictly prohibited.**
 
 ### 2.5 Substitutions
-- Teams may use registered substitutes **between maps**.
+- Teams may field registered substitutes **between maps only**.
 - Substitutions during an active map are not permitted unless a technical or emergency ruling by Tournament Administration explicitly allows it.
+- Fielding an already-registered player or substitute does not consume a Roster Addition Token (see General Rulebook Section 2.4.4). All player additions must meet the 24-hour reporting requirement in the General Rulebook (Section 2.4.1).
 - **Emergency substitutions** require prior **admin approval**.
 
 ### 2.6 Roster Management
@@ -56,7 +57,7 @@ Changes made to a team's roster do not automatically apply to the running compet
 Roster management differs between tournaments/qualifiers and league series:
 
 - **Tournaments and Qualifiers:** Rosters are locked at the start and **no roster changes are permitted** during the tournament or qualifier, except for emergency substitutions approved by admins.
-- **League Series:** Roster changes follow the league framework defined in the **Ibex Gaming League General Rulebook**, unless competition-specific regulations define stricter limits.
+- **League Series:** Roster additions follow the **Roster Additions** token system defined in the **Ibex Gaming League General Rulebook** (Section 2.4.4) — including 2 tokens per stage, refreshed at the start of each new stage — unless competition-specific regulations define stricter limits.
 
 ---
 
