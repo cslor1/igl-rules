@@ -458,21 +458,22 @@ At live events, participants must:
 
 ## 6. Streaming & Broadcasting
 
-### 6.1. Personal Streaming Rights
+### 6.1. Competitor Streaming Rights
 
 #### 6.1.1. General Streaming Permissions
 
 Competitors may broadcast their own matches, subject to:
 
-- Restricted to POV;
+- One Stream may only show one Point of View at a time ("POV Stream");
 - Stream title must include the name of the competition in the title e.g. "Ibex Gaming League | <Division> | <Season>";
 - Use of "IGL" tag where the platform supports tagging (e.g., Twitch);
 - Official broadcasts take precedence over any personal stream. Players need written permission by the Ibex Gaming League to stream the same match as any official broadcast;
-- Opponents need to be informed.
+- Match Opponents must be informed that a stream takes place.
 
 #### 6.1.2. Spectator or third-party streams additional requirements:
 
-Spectator or third-party streams require:
+Spectator or third-party streams ("Team Broadcast") require:
+
 - Written consent from both competing teams provided to tournament administration;
 - Prior approval from tournament administration;
 - The use of specific official assets may be required by the tournament adminstration
@@ -481,9 +482,9 @@ Spectator or third-party streams require:
 
 IGL accepts **no responsibility for technical issues, stream sniping, security breaches, or other problems** related to personal or third-party broadcasts. Participants stream at their own risk.
 
-#### 6.1.4. Grant of rights
-The IGL may grant special permissions and waive provisions in regard to `6. Streaming & Broadcasting` to partnered broadcast operators.
-Partners must adhere to quality standards and broadcasting guidelines as specified in their partnership agreement.
+#### 6.1.4. General Provisions
+
+IGL reserves right to waive any provision in this section. IGL may also set new restrictions in individual agreements.
 
 ### 6.2. Official Broadcasting Rights
 
@@ -491,9 +492,10 @@ Partners must adhere to quality standards and broadcasting guidelines as specifi
 
 By participating in IGL competitions, all participants grant IGL the unrestricted right to:
 
-- Record, broadcast, and redistribute all gameplay footage
+- Record, broadcast, and redistribute all gameplay footage including POV Stream footage
 - Conduct audio recordings, including team communication ("Listen-Ins")
 - Create promotional content, highlights, and social media materials
+- Sublicense and provide any material pertaining to the competition to partners and third parties
 - Use participant names, likenesses, and team information in broadcasts
 
 #### 6.2.2. Listen-In Opt-Out Policy
@@ -502,7 +504,7 @@ Teams may **opt out of Listen-In recordings** by providing written notice to the
 
 #### 6.2.3. Post-Match Interview Requirements
 
-For streamed matches, teams must provide **one (1) participant for post-match interviews**. Participation is **mandatory** unless exempted for medical or emergency reasons approved by administration.
+For streamed matches, teams must provide **one (1) participant for post-match interviews** if requested by IGL Staff.
 
 ### 6.3. Content Usage and Distribution
 
