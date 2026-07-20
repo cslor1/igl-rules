@@ -77,7 +77,7 @@ Where circumstances arise that are **not explicitly covered by these Rules**, th
 
 #### 2.1.1. Age Requirements
 
-All competitors must be at least **sixteen (16) years old** to participate in IGL competitions.
+All competitors must be at least **sixteen (14) years old** to participate in IGL competitions.
 
 **Competitors under eighteen (18) years of age must provide:**
 
@@ -87,8 +87,6 @@ All competitors must be at least **sixteen (16) years old** to participate in IG
 - **Emergency contact information** for parent or legal guardian
 
 **Parental consent requirements are mandatory and non-waivable for all participants under 18 years of age, regardless of the participant's legal capacity or emancipation status under applicable law.**
-
-**Legal Basis:** Compliance with Swiss youth protection laws, data protection requirements, and capacity to enter binding agreements.
 
 #### 2.1.2. Legal Capacity
 
