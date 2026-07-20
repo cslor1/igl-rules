@@ -122,6 +122,8 @@ All competitors must register their **primary gaming account(s)** for each relev
 
 Unless otherwise specified in game-specific or competition-specific rules, **the majority of each team's starting lineup must consist of Swiss nationals, individuals holding at least a Swiss B residence permit, or citizens/permanent residents of Liechtenstein** (who are considered Swiss for roster purposes).
 
+This nationality requirement applies to the players **actually fielded — the active lineup, i.e. the players "on the field"** — and must be satisfied **at all times during a match**. It **cannot be circumvented through roster additions or substitutions**: any roster addition, substitution, or emergency substitution that would cause the active lineup to fall below the required proportion of eligible players is not permitted.
+
 #### 2.2.2. Foreign Player Exceptions
 
 Non-Swiss players may request exceptions (where such exceptions are permitted by game-specific or competition-specific rules) by demonstrating:
@@ -160,9 +162,15 @@ Teams may represent organisations subject to the following restrictions:
 #### 2.4.1. Initial Roster Submission
 
 Teams must submit complete rosters before competition commencement, including all substitutes as defined by game-specific rules.
-Roster changes during competition are governed by the applicable provisions of Sections 2.4.2, 2.4.3, and 2.4.5, including emergency substitutions and exceptional permanent roster approvals, tournaments/qualifiers roster locks, the league series token system, and any permitted roster changes outside tokens.
+Roster changes during competition are governed by the applicable provisions of Sections 2.4.2, 2.4.3, and 2.4.4, including emergency substitutions and exceptional permanent roster approvals, tournaments/qualifiers roster locks, and the league series Roster Additions token system.
+
+For the purposes of these Rules:
+- **Registered roster:** all players registered to the team for the competition on the IGL platform, including substitutes. Registered substitutes are registered as normal players.
+- **Active roster (also "active lineup" or players "on the field"):** the players a team is eligible to field, and actually fields, in a given match. Registered substitutes are part of the registered roster and may be moved into the active lineup subject to the game-specific substitution rules of the applicable rulebook.
+
 Changes to a team's roster on our platform do **not** automatically apply to an ongoing competition. Any roster change must be announced to tournament administration and is only effective once it is officially listed on the relevant **competition page**.
 Roster change announcements must include each affected player's ID. The player's account must contain all required sign-up information for the competition (as required at initial registration); if such information is missing from the account, it must be included in the roster change report.
+**Player additions (all games):** every player added to a roster must be **fully reported** to tournament administration — including the complete registration information required at initial sign-up — **no later than 24 hours before the first match in which that player is fielded**. A player may not be fielded until this reporting requirement has been met.
 #### 2.4.2. Emergency Substitutions
 
 Emergency substitutions require **advance approval from tournament administration** and are permitted only for:
@@ -170,6 +178,8 @@ Emergency substitutions require **advance approval from tournament administratio
 - Medical emergencies or health issues
 - Unforeseen travel or technical difficulties
 - Other circumstances deemed acceptable by the administration
+
+Emergency substitutions are **free and outside the Roster Additions token system**: they do not consume any Roster Addition Tokens. They remain subject to the game-specific rulebooks and to the nationality requirement in Section 2.2.1.
 
 In exceptional scenarios, tournament administration may approve case-by-case permanent roster exceptions outside standard roster restrictions only where strict compliance would be impossible or materially unfair due to circumstances such as:
 - Team dissolution or organisational collapse
@@ -186,40 +196,36 @@ All approvals under this clause must:
 - Be sent directly to materially affected teams immediately (and in all cases within the 24-hour disclosure period)
 Any team directly affected by such approval may file an appeal under Section 8 (Appeals Process). Exceptional roster approvals under this clause are appealable decisions under Section 8.2 and are subject to the filing timelines and procedure set out in Section 8.4. Exceptional approvals are case-specific and do not create automatic precedent.
 
-#### 2.4.3. Roster Locks, Transfer Windows, and Token System
+#### 2.4.3. Roster Locks, Transfer Windows, and Roster Addition Tokens
 
 **Tournaments and Qualifiers:** Rosters are **locked at the start of the competition** and **no roster changes are permitted during the tournament or qualifier**, except for emergency substitutions with administrator approval (see Section 2.4.2). Teams must finalize their roster before the competition commences.
 
-**League Series:** League play (regular season, playoffs, and final matches) is governed by a **Substitution Token** system described below, unless a game-specific rulebook defines an alternative league roster mechanism. Teams advancing to a league phase must adhere to the roster lock deadline, defined as **the last scheduled qualifier date for that season, or the date communicated by tournament administration** if no qualifiers exist.
+**League Series:** League play (regular season, playoffs, and final matches) is governed by the **Roster Additions** token system described below, unless a game-specific rulebook defines an alternative league roster mechanism. Teams advancing to a league phase must adhere to the roster lock deadline, defined as **the last scheduled qualifier date for that season, or the date communicated by tournament administration** if no qualifiers exist.
 
 Where qualification from a qualifier or prior phase grants entry into a subsequent competition phase, the team must retain a majority of players from its qualifying roster, unless a game-specific or competition-specific rule imposes a stricter requirement, or tournament administration grants an exceptional approval under this clause.
 
-#### 2.4.4. Substitution Tokens (League Series Only)
+#### 2.4.4. Roster Additions (League Series Token System)
 
-**Purpose:** Substitution Tokens allow teams to **add a new player** to the active roster during a league season. Each token can be used either to permanently add a player for the remainder of the season. Removing a player from the active roster is free and does not require a token.
+**Purpose:** Roster Addition Tokens allow teams to **add a new player** — a player who is **not already on the team's registered roster** — to the active roster during a league season. Each token permanently adds one such new player to the active roster for the remainder of the season phase. Removing a player from the active roster is free and does not require a token.
+
+**Registered players and substitutes do not require a token.** Registered substitutes are registered as normal players on the IGL platform. Fielding any player who is already on the team's registered roster — including registered substitutes and players previously removed from the active roster — is **free and never consumes a token**, subject only to the in-match substitution limits in the applicable game-specific rulebook and the reporting requirement in Section 2.4.1. A Roster Addition Token is required **only** to bring in a player who is not already registered to the team for that competition.
 
 **Allocation:**
-- **Regular Season:** Each team receives **2 Substitution Tokens**
-- **Playoffs and Final Matches:** Allocation is reduced to a **maximum of 1 token**
-  - Teams that used 1 token in regular season retain 1 for playoffs
-  - Teams that used 2 tokens have no tokens remaining for playoffs
-  - Teams that used 0 tokens enter playoffs with 1 token available
+- **Regular Season:** Each team receives **2 Roster Addition Tokens**
+- **Each subsequent stage** (e.g., Playoffs, Relegation/Promotion, Final Matches): token allocation is **refreshed to 2 Roster Addition Tokens** at the start of that stage
+- Tokens **do not carry over or stack** between stages: unused tokens are lost at the end of a stage, and every stage begins with exactly 2 tokens
 
-**Usage - Permanent Addition:**
-- **Adding a permanent player** to the active roster costs **1 Substitution Token**
-- The new player joins the active roster for the remainder of the league series (regular season, playoffs, or final matches)
-- Removed or previous players remain on the registered roster and may return via another Substitution Token
-- Once a token is used for permanent addition, it cannot be recovered
+**Usage:**
+- **Adding a new (unregistered) player** to the active roster costs **1 Roster Addition Token**
+- The added player joins the active roster for the remainder of the current stage and season phase
+- Removed or previous players remain on the registered roster and may be fielded again **without a token**, as they are already registered
+- Once a token is used, it cannot be recovered
 
 **General Usage Rules:**
 - **Removing a player from the active roster is always free** and does not require a token
-- Tokens may be used at any point during their applicable phase (regular season, playoffs, or final/relegation matches)
-- Once a token is used, it cannot be recovered
+- Tokens may be used at any point during their applicable stage (regular season, playoffs, or final/relegation matches)
+- All player additions must be reported in full and in advance in accordance with Section 2.4.1, including the 24-hour reporting deadline
 - Specific roster size limits are defined in game-specific rulebooks
-
-#### 2.4.5. Emergency Substitutions (Outside Token System)
-
-Emergency substitutions (medical emergencies, technical failures, etc.) are **free and outside the Substitution Token system**. They require **advance approval from tournament administration** and do not consume any tokens (see Section 2.4.2).
 
 ---
 
