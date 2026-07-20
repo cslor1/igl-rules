@@ -25,7 +25,7 @@ For general eligibility, conduct, media, data, prizes, and legal terms, refer to
 ### 2.1. Team Composition
 - **Team size:** 5 players + up to 2 substitutes  
 - **Nationality:** Minimum of **3 active players must be Swiss or Liechtenstein nationals or hold at least a B permit**  
-- **Captain:** Each team must designate a **Captain** and optionally a **Vice-Captain** for communication
+- **Captain:** Each team must designate a **Captain** for communication (the Substitute Captain role is defined in the General Rulebook, Section 2.3.1)
 
 ### 2.2. Account Registration
 - All players must register their **primary Steam accounts** before the tournament.  
@@ -37,12 +37,12 @@ For general eligibility, conduct, media, data, prizes, and legal terms, refer to
 - **Emergency substitutions** require prior admin approval in accordance with the General Rulebook (Section 2.4.2).
 - Changes made to a team's roster do not automatically apply to the running competition; changes are only effective once announced to admins and listed on the official competition page.
 
+**In-Match Substitutions:** CS2 does **not** permit substitutions during a live match. The active lineup is fixed for the entire match: **no changes to the players on the server are allowed once the match has started, including between maps**. A registered substitute may only be fielded by setting the active lineup **before the match begins**. All player additions must also meet the 24-hour reporting requirement in the General Rulebook (Section 2.4.1).
+
 Roster management differs between tournaments/qualifiers and league series:
 
 - **Tournaments and Qualifiers:** Rosters are locked at the start and no roster changes are permitted during competition, except emergency substitutions approved by admins.
-- **League Series:** Roster changes are governed by the **Substitution Token** system in the General Rulebook (Section 2.4.4), with the following CS2-specific provisions:
-  - Teams receive **2 Substitution Tokens** for the regular season.
-  - At the start of playoffs/relegation-promotion, each team receives a **full refill to 2 Substitution Tokens**.
+- **League Series:** Roster additions are governed by the **Roster Additions** token system in the General Rulebook (Section 2.4.4) — including the allocation of **2 tokens per stage, refreshed at the start of playoffs/relegation-promotion**, and the rule that fielding an already-registered player or substitute does not consume a token. The following CS2-specific provisions also apply:
   - After the regular season ends, no foreign players may be newly added to a league roster.
   - Transfers between league teams at the same tier/division (horizontal) or to higher tiers/divisions (upward) are permitted only once per player per season, and only if the player has played in fewer than 3 official league matches for the source team in that season.
 ---
