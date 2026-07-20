@@ -46,7 +46,8 @@ The Tournament Administration may grant **special exemptions** to:
 - **Account sharing, smurfing, or multi-teaming** is strictly prohibited.
 
 ### 2.5 Substitutions
-- Teams may use their registered substitute **before a match**.
+- Teams may field a registered substitute **before a match only**. Substitutions are **not permitted during a live match** — once a match has started, no changes to the active lineup are allowed.
+- Fielding an already-registered player or substitute does not consume a roster addition (see Section 2.6). All player additions must meet the 24-hour reporting requirement in the General Rulebook (Section 2.4.1).
 - **Emergency substitutes** require prior **admin approval**.
 
 ### 2.6 Roster Management
@@ -56,7 +57,7 @@ Changes made to a team's roster do not automatically apply to the running compet
 
 **Tournaments and Qualifiers:** Rosters are locked at the start and **no roster changes are permitted** during the tournament or qualifier, except for emergency substitutions. Teams must finalize their roster before the competition starts.
 
-**League Series:** Rocket League does not use the Substitution Token system. Teams may add players during league play up to the maximum roster size defined per competition (e.g., 5 players total, allowing 2 additions beyond the required 3 starters). Teams must maintain the minimum number of players specified at all times.
+**League Series:** Rocket League does not use the Roster Additions token system. Teams may add players during league play up to the maximum roster size defined per competition (e.g., 5 players total, allowing 2 additions beyond the required 3 starters). Teams must maintain the minimum number of players specified at all times.
 
 For league series, each successful player addition consumes one available addition slot up to the maximum roster size. Removing a player does not reopen or create a new addition slot.
 
