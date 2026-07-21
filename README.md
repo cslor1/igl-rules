@@ -39,6 +39,19 @@ After making changes, you'll automatically be taken to create a pull request:
 - They may ask questions or request modifications
 - Once approved, your changes will be merged into the official rules
 
+## Style guide
+
+To keep the rulebooks consistent, follow these conventions when writing or editing rules. This list follows the first rule as an example:
+
+- we use British English spelling and conventions, following the English style guide of the Swiss Federal Chancellery;
+- as a house convention, list items end with a semicolon, and the final item ends with a full stop.
+
+For example, a list of provisions should be formatted like this:
+
+- teams must declare all substitutes before the competition starts;
+- registered substitutes may be fielded without a token;
+- emergency substitutions require prior admin approval.
+
 ## Need help?
 
 For detailed information about using GitHub, check out the official documentation:
