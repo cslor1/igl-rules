@@ -14,40 +14,40 @@ This rulebook supplements the **Ibex Gaming League General Rulebook** and outlin
 
 All Rocket League competitions organised by IGL—including qualifiers, league play, and playoffs—are governed by:
 
-1. Swiss Law  
-2. Competition-Specific Rules (per event)  
-3. **Rocket League Rulebook (this document)**  
-4. **Ibex Gaming League General Rulebook**
+1. Swiss Law;
+2. Competition-Specific Rules (per event);
+3. **Rocket League Rulebook (this document)**;
+4. **Ibex Gaming League General Rulebook**.
 
 By participating, all teams and players agree to:
-- The **Ibex Gaming League General Rulebook**  
-- This **Rocket League Rulebook**  
-- Any **event-specific regulations** published on [ibexgaming.org](https://ibexgaming.org)
+- The **Ibex Gaming League General Rulebook**;
+- This **Rocket League Rulebook**;
+- Any **event-specific regulations** published on [ibexgaming.org](https://ibexgaming.org).
 
 ---
 
 ## 2. Team & Player Regulations
 
 ### 2.1 Team Composition
-- Each team must consist of **3 starting players**.
+- Each team must consist of **3 starting players**;
 - **Substitute players** may be registered in addition in accordance with the maximum number of players allowed per competition.
 
 ### 2.2 Swiss Residency Requirement
 At least **2 of the 3 playing individuals** must:
-- Hold **Swiss citizenship**, or  
-- Reside in Switzerland and possess at least a **B-permit**, or
+- Hold **Swiss citizenship**, or;
+- Reside in Switzerland and possess at least a **B-permit**, or;
 - Be a citizen or permanent resident of the Principality of Liechtenstein.
 
 ### 2.3 Foreign Player Exceptions
 The Tournament Administration may grant **special exemptions** to:
 - **Players who have participated in at least 3 Swiss Rocket League events, including at least 1 Swiss offline event, within the past 365 days and are currently representing a Swiss esports organisation.**
 ### 2.4 Account Registration
-- - All players must register their **primary game account**.
+- - All players must register their **primary game account**;
 - **Account sharing, smurfing, or multi-teaming** is strictly prohibited.
 
 ### 2.5 Substitutions
-- Teams may field a registered substitute **before a match only**. Substitutions are **not permitted during a live match** — once a match has started, no changes to the active lineup are allowed.
-- Fielding an already-registered player or substitute does not consume a roster addition (see Section 2.6). All player additions must meet the 24-hour reporting requirement in the General Rulebook (Section 2.4.1).
+- Teams may field a registered substitute **before a match only**. Substitutions are **not permitted during a live match** — once a match has started, no changes to the active lineup are allowed;
+- Fielding an already-registered player or substitute does not consume a roster addition (see Section 2.6). All player additions must meet the 24-hour reporting requirement in the General Rulebook (Section 2.4.1);
 - **Emergency substitutes** require prior **admin approval**.
 
 ### 2.6 Roster Management
@@ -74,17 +74,17 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 ### 3.2 Default Map Rotation
 
 - The default map rotation is:
-    1. Mannfield (Night)
-    2. Forbidden Temple
-    3. DFH Stadium
-    4. Utopia Coliseum (Dusk)
-    5. Sovereign Heights
-    6. Neo Tokyo
-    7. Champions Field
+    1. Mannfield (Night);
+    2. Forbidden Temple;
+    3. DFH Stadium;
+    4. Utopia Coliseum (Dusk);
+    5. Sovereign Heights;
+    6. Neo Tokyo;
+    7. Champions Field.
 
-- Maps are selected sequentially from the rotation (game 1 uses map 1, game 2 uses map 2, etc.).
-- If a series extends beyond 7 games, the rotation restarts from map 1.
-- If both teams agree, or if required for performance reasons, other standard arenas may be used.  
+- Maps are selected sequentially from the rotation (game 1 uses map 1, game 2 uses map 2, etc.);
+- If a series extends beyond 7 games, the rotation restarts from map 1;
+- If both teams agree, or if required for performance reasons, other standard arenas may be used;
 - The Tournament Administration may enforce other specific arenas if needed.
 
 ### 3.3 Game Settings
@@ -103,17 +103,17 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 
 ### 3.4 Lobby Setup & Hosting
 
-- In **regular season**, teams create their own lobbies as instructed by admins.
-- The first team listed on the match page is responsible for hosting the lobby and plays on the blue side.  
-- For **playoffs and broadcasted matches**, the **Tournament Administration** may host the lobby.  
+- In **regular season**, teams create their own lobbies as instructed by admins;
+- The first team listed on the match page is responsible for hosting the lobby and plays on the blue side;
+- For **playoffs and broadcasted matches**, the **Tournament Administration** may host the lobby;
 - Lobby credentials will be provided before the match – all lobbies have to be created with the credentials provided.
 
 ### 3.5 Timeouts (Best-of-7 Only)
 
-- Each team is allowed **one (1) timeout** per Best-of-7 series.  
-- Timeouts may only be taken **between games**, not during gameplay.  
-- Timeouts last a maximum of **2 minutes**.  
-- Teams must inform a Tournament Administrator immediately after the game in which they wish to take the timeout.  
+- Each team is allowed **one (1) timeout** per Best-of-7 series;
+- Timeouts may only be taken **between games**, not during gameplay;
+- Timeouts last a maximum of **2 minutes**;
+- Teams must inform a Tournament Administrator immediately after the game in which they wish to take the timeout;
 - The Tournament Administration reserves the right to deny timeout requests.
 
 ---
@@ -122,14 +122,14 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 
 ### 4.1 Player Streaming
 
-- Players may stream their **own point-of-view (POV)** gameplay.
-- Streams must include the name of the competition in the title e.g. "Ibex Gaming League | <Division> | <Season>".
+- Players may stream their **own point-of-view (POV)** gameplay;
+- Streams must include the name of the competition in the title e.g. "Ibex Gaming League | <Division> | <Season>";
 - **Official broadcasts take precedence** over any personal stream. Players must comply with admin instructions regarding media restrictions (e.g. added delay of 2 minutes).
 
 ### 4.2 Voice Channels & Listen-Ins
 
-- All teams must use the **designated Discord voice channels** during official matches if requested by the administrators.
-- For streamed matches, **listen-ins** may be used as part of the broadcast unless a team **opts out in advance**.
+- All teams must use the **designated Discord voice channels** during official matches if requested by the administrators;
+- For streamed matches, **listen-ins** may be used as part of the broadcast unless a team **opts out in advance**;
 - One (1) player per team may be asked to participate in **post-match interviews** during or after official broadcasts.
 
 ---
@@ -140,16 +140,16 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 
 All players must uphold the highest standards of fair play and sportsmanship. Rocket League-specific violations include, but are not limited to:
 
-- Use of **unauthorised game modifications**
-- Use of **macros or controller scripts**
-- **Deliberate disconnections** or match disruptions
-- **Exploiting bugs or glitches** to gain a competitive advantage
-- Playing under **false identities or alternate accounts**
+- Use of **unauthorised game modifications**;
+- Use of **macros or controller scripts**;
+- **Deliberate disconnections** or match disruptions;
+- **Exploiting bugs or glitches** to gain a competitive advantage;
+- Playing under **false identities or alternate accounts**.
 
 ### 5.2 Rule Enforcement
 
-- The Rocket League Admin Team has full authority to issue warnings, penalties, or disqualifications based on rule violations.
-- **Sanctions follow the league-wide disciplinary framework** outlined in the General Rulebook.
+- The Rocket League Admin Team has full authority to issue warnings, penalties, or disqualifications based on rule violations;
+- **Sanctions follow the league-wide disciplinary framework** outlined in the General Rulebook;
 - Appeals and dispute resolution follow the standard procedures.
 
 ---
