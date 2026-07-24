@@ -69,7 +69,7 @@ For regular season reschedules, teams must announce their intent to reschedule t
 | Freeze Time     | 20 sec          |
 | Bomb Timer      | 40 sec          |
 | Overtime        | MR3             |
-| Overtime Money  | $10,000         |
+| Overtime Money  | $12,500         |
 
 ### 4.2. Map Pool
 
