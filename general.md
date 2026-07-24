@@ -77,7 +77,7 @@ Where circumstances arise that are **not explicitly covered by these Rules**, th
 
 #### 2.1.1. Age Requirements
 
-All competitors must be at least **sixteen (14) years old** to participate in IGL competitions.
+All competitors must be at least **sixteen (16) years old** to participate in IGL competitions.
 
 **Competitors under eighteen (18) years of age must provide:**
 
