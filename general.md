@@ -82,7 +82,7 @@ All competitors must be at least **sixteen (16) years old** to participate in IG
 **Competitors under eighteen (18) years of age must provide:**
 
 - **Written parental or legal guardian consent** using the official IGL consent form;
-- **Additional parental consent for data processing** as required by Swiss data protection law;
+- Additional parental consent for data processing, scope defined in Section 10.2.2;
 - **Parental acknowledgement** of these Rules and competition requirements;
 - **Emergency contact information** for parent or legal guardian.
 
@@ -740,7 +740,7 @@ If advertised prizes become unavailable, IGL may provide:
 
 ### 10.1. Legal Framework
 
-IGL processes personal data in accordance with the Swiss Federal Act on Data Protection (FADP) and applicable cantonal data protection laws. **IGL uses Google Workspace services for data processing, which provides adequate data protection safeguards under Swiss law.**
+IGL processes personal data in accordance with the Swiss Federal Act on Data Protection (FADP) and applicable cantonal data protection laws. Where personal data is transferred outside Switzerland, IGL relies on adequacy mechanisms, Standard Contractual Clauses, or other safeguards recognised under Swiss law (see Section 10.5).
 
 ### 10.2. Data Collection and Processing
 
@@ -757,16 +757,12 @@ IGL collects the following data for competition administration:
 
 #### 10.2.2. Special Provisions for Minors
 
-For participants under 18 years of age:
+For participants under 18:
 
-- **Enhanced parental consent** is required for all data processing activities;
-- **Separate consent forms** must be completed for:
-  - Competition participation and administration;
-  - Broadcasting and media rights (including Listen-Ins);
-  - Marketing communications (optional);
-  - Statistical analysis and performance tracking.
-- **Parental access rights** include the ability to request the deletion of a minor's data;
-- **Additional safeguards** apply to public disclosure of minor participant information.
+- Parent/guardian consent required to enter competition (contract execution — covers admin processing under Section 2.1.1)
+- Where processing has consent as its legal basis (see Section 10.6.1), parent/guardian provides consent on the minor's behalf
+- Parent/guardian may request deletion of minor's data
+- Public disclosure of minor participant info subject to additional safeguards
 
 #### 10.2.3. Processing Purposes
 
@@ -793,6 +789,7 @@ IGL processes only data necessary for specified purposes and implements data min
 - **Financial Information:** 10 years (Swiss tax and accounting requirements);
 - **Communication Records:** 2 years after last communication;
 - **Media Content:** Indefinitely (for historical and promotional purposes, unless opt-out requested);
+- **Statistical Data:** Indefinitely (for historical purposes, unless opt-out requested);
 - **Marketing Data:** Until consent is withdrawn or 2 years of inactivity.
 
 #### 10.3.2. Extended Retention
@@ -828,7 +825,7 @@ Participants have the following rights regarding their personal data:
 
 #### 10.4.3. Special Rights for Minors
 
-- **Parental exercise of rights** on behalf of children under 16;
+- **Parental exercise of rights** on behalf of children under 18;
 - **Enhanced deletion rights** upon reaching majority;
 - **Right to remove** broadcast content featuring the minor (subject to editorial considerations).
 
@@ -850,14 +847,14 @@ IGL implements appropriate technical and organisational measures, including:
 - **Staff training** on data protection requirements;
 - **Incident response procedures** for security breaches.
 
-#### 10.5.2. Google Workspace Processing
+#### 10.5.2. Sub-Processor Data Handling
 
-Data processing through Google Workspace includes:
+Data processing through third-party sub-processors includes:
 
-- **Standard Contractual Clauses** for international transfers;
-- **Data Processing Addendum** with Google as processor;
-- **Data residency controls** where technically feasible;
-- **Enterprise-grade security** and compliance certifications.
+- Standard Contractual Clauses for international transfers
+- Data Processing Addenda with sub-processors
+- Data residency controls where technically feasible
+- Enterprise-grade security and compliance certifications
 
 #### 10.5.3. International Transfers
 
@@ -872,10 +869,10 @@ Personal data may be transferred outside Switzerland only:
 
 IGL will:
 
-- **Notify the FDPIC** within 72 hours of becoming aware of high-risk breaches;
-- **Inform affected participants** within 72 hours of breaches posing high risk to rights and freedoms;
-- **Provide detailed information** about the breach, its likely consequences, and remedial measures;
-- **Maintain breach logs** and conduct post-incident reviews.
+- Notify the FDPIC as soon as possible where a breach is likely to pose high risk to data subjects' rights
+- Inform affected participants directly where notification is necessary for their protection, or where required by the FDPIC
+- Provide detailed information about the breach, its likely consequences, and remedial measures
+- Maintain breach logs and conduct post-incident reviews
 
 ### 10.6. Lawful Basis for Processing
 
@@ -888,7 +885,8 @@ IGL will:
 
 #### 10.6.2. Consent Management
 
-- **Granular consent options** for different processing purposes;
+- Granular consent options for consent-based processing purposes (broadcasting/Listen-Ins, marketing communications)
+- Contract-based and legally-required processing (competition admin, tax, integrity) does not require separate consent
 - **Easy withdrawal mechanisms** via participant portal and email;
 - **Clear consent records** maintained with timestamps and scope;
 - **Regular consent renewal** for ongoing marketing communications.
