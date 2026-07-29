@@ -80,7 +80,7 @@ The **Active Duty Map Pool** at the time of the event applies. For the 2025 seas
 - Inferno;
 - Mirage;
 - Nuke;
-- Overpass;
+- Cache;
 - Anubis.
 
 The current map pool is always confirmed on **[ibexgaming.org](https://ibexgaming.org)**.
