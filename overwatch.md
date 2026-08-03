@@ -1,6 +1,5 @@
 # Overwatch Rulebook – Ibex Gaming League
 
-**Revision 1.1**  
 **Last Modified: 11.05.2026**  
 **Effective Date: 18.04.2026**
 
