@@ -59,8 +59,7 @@ For regular season reschedules, teams must announce their intent to reschedule t
 ## 4. Game Setup & Match Rules
 
 ### 4.1. Server Settings
-
-| Setting          | Value               |
+| Setting         | Value               |
 |-----------------|---------------------|
 | Rounds          | Best of 24      |
 | Round Time      | 1:55            |
@@ -69,81 +68,82 @@ For regular season reschedules, teams must announce their intent to reschedule t
 | Bomb Timer      | 40 sec          |
 | Overtime        | MR3             |
 | Overtime Money  | $12,500         |
+| Round Restart Delay | 5 sec           |
+
+The servers are located in Bern, Switzerland.
 
 ### 4.2. Map Pool
+The competition will be played on the current competitive map pool (Valve Active Duty Map
+Group) which consists of the following maps :
 
-The **Active Duty Map Pool** at the time of the event applies. For the 2025 season, the pool is:
+- Ancient  
+- Dust II  
+- Inferno  
+- Mirage  
+- Nuke  
+- Overpass  
+- Anubis
 
-- Ancient;
-- Dust II;
-- Inferno;
-- Mirage;
-- Nuke;
-- Cache;
-- Anubis.
-
-The current map pool is always confirmed on **[ibexgaming.org](https://ibexgaming.org)**.
+If Valve modifies the Active Duty Map Pool during the season or shortly before it begins, the tournament administration reserves the right to retain the previous map pool until the end of the season.
 
 ### 4.3. Veto Procedure
 
 #### 4.3.1. Pick-Ban-System
 Team A is the team that is listed first on the match page (typically the higher seeded team at the start of the stage).
 
-##### Best-of-1:
-1. A bans map;
-2. B bans map;
-3. A bans map;
-4. B bans map;
-5. A bans map;
-6. B bans map;
-7. Remaining map is played.
+##### Best-of-1
+1. A bans map  
+2. B bans map  
+3. A bans map  
+4. B bans map  
+5. A bans map  
+6. B bans map  
+7. Remaining map is played
 
-##### Best-of-2:
-1. A bans map;
-2. B bans map;
-3. A bans map;
-4. B bans map;
-5. A picks map 1;
-6. B picks map 2;
-7. Decider map will not be played.
+##### Best-of-2
+1. A bans map
+2. B bans map
+3. A bans map
+4. B bans map
+5. A picks map 1
+6. B picks map 2
+7. Decider map will not be played
 
-##### Best-of-3:
-1. A bans map;
-2. B bans map;
-3. A picks map 1;
-4. B picks map 2;
-5. A bans map;
-6. B bans map;
-7. Remaining map is decider.
+##### Best-of-3
+1. A bans map  
+2. B bans map  
+3. A picks map 1
+4. B picks map 2
+5. A bans map    
+6. B bans map
+7. Remaining map is decider
 
-##### Best-of-5:
-1. A bans map;
-2. B bans map;
-3. A picks map 1;
-4. B picks map 2;
-5. A picks map 3;
-6. B picks map 4;
-7. Remaining map is decider.
+##### Best-of-5
+1. A bans map  
+2. B bans map  
+3. A picks map 1  
+4. B picks map 2  
+5. A picks map 3  
+6. B picks map 4  
+7. Remaining map is decider
 
 #### 4.3.2. Side Selection
 
 ##### For Remaining Maps:
-- A knife round will be conducted at the start of the match;
-- The winner of the knife round selects which side their team will start on.
+- A knife round will be conducted at the start of the match
+- The winner of the knife round selects which side their team will start on
 
 ##### For Picked Maps:
-- The team that did not pick the map selects the starting side.
+- The team that did not pick the map selects the starting side
 
 ### 4.4. Match Start Protocol
-
-- Both teams must be ready **15 minutes before match time**;
-- Ibex Gaming League will provide server IPs to team captains at least 30 minutes before the scheduled match time;
-- In exceptional circumstances, teams may request admin assistance for alternative server arrangements;
-- Third-party provided servers might be used (e.g. Faceit) if necessary.
+- Both teams must be ready **15 minutes before match time**
+- Ibex Gaming League will provide server IPs to team captains at least 30 minutes before the scheduled match time
+- In exceptional circumstances, teams may request admin assistance for alternative server arrangements
 
 ### 4.5 Timeout
 To call a timeout, participants have to use the in-game vote system (ESC → Call Vote → Call
-Tactical Timeout). A timeout lasts thirty (30) seconds. Participants are allowed to take all
+Tactical Timeout) or use **.tac** command in the in-game chat. A timeout lasts thirty (30) seconds. Participants are allowed to take all
 three timeouts at once by calling them all individually once the previous timeout expires.
 
 If a map reaches overtime (OT), all remaining timeouts will be removed and each team will
@@ -151,6 +151,29 @@ receive one (1) timeout to be used in that OT (OT1) period. If the map progresse
 OT (OT2), the same process will happen - any remaining timeouts will be removed, and each
 team will receive one (1) more timeout. Banked timeouts cannot be stacked higher than one
 (1) in overtime.
+
+### 4.6 Break During Between Maps
+The break duration between maps (except for BO1s) are as follows :
+
+#### 4.6.1 Best-of-2
+- Between map 1 and 2 : 10 minutes
+
+#### 4.6.2 Best-of-3
+- Between map 1 and 2 : 10 minutes
+- Between map 2 and 3 : 10 minutes
+
+#### 4.6.3 Best-of-5
+- Between map 1 and 2 : 10 minutes
+- Between map 2 and 3 : 10 minutes
+- Between map 3 and 4 : 15 minutes
+- Between map 4 and 5 : 20 minutes
+
+### 4.7 Game Version 
+The competition will use the latest available version of the game client. If the latest available version is considered unplayable due to bugs or extreme balance changes within close proximity to the event by the tournament administration, an older version might be used if it's
+available for rollback. Any update during the event may result in a rollback to the initial version (if possible).
+
+### 4.8 Demos
+Demos can be find at the following link : **[ibexgaming.org](https://demos.ibexgaming.org/).
 
 ---
 
